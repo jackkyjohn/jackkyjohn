@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jackkyjohn
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 📫 How to reach me You can reach me on my gmail address: quyyumlameed@gmail.com
+- 💻 Software Developer
+- 📫 How to reach me. You can reach me on my gmail address: jackjohn0@gmail.com
 
 <!---
 jackkyjohn/jackkyjohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
